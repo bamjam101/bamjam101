@@ -1,5 +1,5 @@
-<h1 align="center">Hey  <img width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">,
-i'm Jam</h1>
+<h1 align="center">Hey,
+I'm Jam</h1>
 
 # 💫 About Me:
 A web developer aspirant. I have experience in full stack development, as I have implemented various projects and worked as a freelancer for a committee and an agency. <br/><br/> 🔖 I was recently a part of TEDxACE committe where I worked for developing the official website of TEDxACE 2023. It has been very fortunate for me to be a part and contribute to such an uplifting platform. After that I completed a full stack freelance project for a tech agency in Mumbai. 
