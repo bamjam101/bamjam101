@@ -2,11 +2,11 @@
 I'm Jam</h1>
 
 # 💫 About Me:
-A web developer aspirant. I have experience in full stack development, as I have implemented various projects and worked as a freelancer for a committee and an agency. <br/><br/> 🔖 I was recently a part of TEDxACE committe where I worked for developing the official website of TEDxACE 2023. It has been very fortunate for me to be a part and contribute to such an uplifting platform. After that I completed a full stack freelance project for a tech agency in Mumbai. 
+A full-stack web developer with proven contributions ranging from remote to full-time roles.
 <br/><br/>
-🧑‍💻 Experienced fullstack developer, specialized in MERN stack.<br/>
-🤝 Open to work and contribute in frontend specific projects.<br/>
-💻 Currently, I am exploring Blockchain and Web3.<br/>
+🧑‍💻 Experienced fullstack developer, specialized in MERN stack, now tailoring web experience via Next.js.<br/>
+🤝 Open to work and contribute in web and mobile application development projects.<br/>
+💻 Currently, I am looking for a remote opportunity.<br/>
 <br />
 
 # 💻 Tech Stack:
